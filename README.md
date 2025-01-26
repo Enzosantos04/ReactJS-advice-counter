@@ -1,4 +1,4 @@
-# Application get advices from API
+# Application to get advices from API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
